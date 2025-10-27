@@ -47,12 +47,6 @@ Development
 - Content script: `content.js` (scanner and model)
 - Popup UI: `popup.html`, `popup.js`
 
-Roadmap
--------
-- Optional user-managed allowlist in the popup
-- Telemetry-free local logs toggle (for debugging only)
-- Additional heuristics and model improvements
-
 License
 -------
 MIT – see LICENSE
